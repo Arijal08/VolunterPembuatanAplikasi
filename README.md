@@ -9,3 +9,4 @@ Volunter, silahkan lakukan PR(pull-request) pada berkas ini ya. Silahkan gunakan
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Akbar Ramadhan, [Linkedlin](https://linkedin.com/in/akbarrmdn/).
